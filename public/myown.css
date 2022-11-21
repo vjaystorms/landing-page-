@@ -224,4 +224,10 @@ video {
   .menu{
     width: 500px;
   }
+  .burger{
+transform: scale(2);
+  }
+  .burger2{
+transform: scale(2);
+  }
 }
